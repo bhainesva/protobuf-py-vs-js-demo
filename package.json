@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "google-protobuf": "^3.11.2"
+    "google-protobuf": "3.11.2"
   }
 }
